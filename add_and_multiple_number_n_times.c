@@ -1,4 +1,4 @@
-/*This program will take input n time and summition them.
+/*This program will take input n time and summition and multiple them.
 If any input provide as negative the program will terminate.
 And if any input provide as character the program will skip those. */
 
